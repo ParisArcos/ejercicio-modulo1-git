@@ -1,0 +1,16 @@
+name: Demo CI
+
+on:
+  workflow_dispatch:
+    inputs:
+      full_name:
+        description: "Nombre y apellidos"
+        required: true
+        type: string
+
+jobs:
+  demo:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Print full name
+        run: echo "${{ inputs.full_name }}"
