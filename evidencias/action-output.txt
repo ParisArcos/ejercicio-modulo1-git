@@ -1,0 +1,14 @@
+Current runner version: '2.331.0'
+Runner Image Provisioner
+Operating System
+Runner Image
+GITHUB_TOKEN Permissions
+Secret source: Actions
+Prepare workflow directory
+Prepare all required actions
+Complete job name: demo
+0s
+Run echo "Paris Arcos Martin"
+Paris Arcos Martin
+0s
+Cleaning up orphan processes
