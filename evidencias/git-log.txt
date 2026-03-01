@@ -1,0 +1,18 @@
+*   85e62f2 Merge branch 'main' into feature/suma
+|\  
+| *   6568b10 Merge pull request #4 from ParisArcos/feature/gitignore
+| |\  
+| | * b710019 chore: add git status output for evidencias directory
+* | | 575e747 fix: resolve conflict and keep info/suma/resta
+|\| | 
+| * |   5630c2c Merge pull request #3 from ParisArcos/feature/resta
+| |\ \  
+| | * | db5b0ae feat: add resta operation
+| |/ /  
+* / / 717e1c5 feat: add suma operation
+|/ /  
+* | e8918a8 Merge pull request #1 from ParisArcos/feature/gitignore
+|\| 
+| * eec5466 chore: add .gitignore
+|/  
+* 4e28c8d Initial commit with README
